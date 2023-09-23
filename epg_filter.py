@@ -1,5 +1,5 @@
-# pip install lxml
-# pip install wget
+pip install lxml
+pip install wget
 
 ### 下载文件
 
