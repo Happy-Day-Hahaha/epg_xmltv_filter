@@ -11,6 +11,9 @@
 	<channel id="10860">
 		<display-name lang="TW">華視</display-name>
 	</channel>
+	<channel id="10954">
+		<display-name lang="TW">ViuTVsix</display-name>
+	</channel>
 	<channel id="10957">
 		<display-name lang="TW">ViuTV</display-name>
 	</channel>
@@ -5461,6 +5464,1462 @@
 	</programme>
 	<programme channel="10860" start="20230929220000 +0000" stop="20230930000000 +0000">
 		<title lang="zh">我們這一攤(3)(普)</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923003500 +0000" stop="20230923012500 +0000">
+		<title lang="zh">求愛島</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923012500 +0000" stop="20230923021500 +0000">
+		<title lang="zh">20/20時事雜誌 第318集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923021500 +0000" stop="20230923090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923090000 +0000" stop="20230923091500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第47集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923091500 +0000" stop="20230923093000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第48集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923093000 +0000" stop="20230923094500 +0000">
+		<title lang="zh">Tangranimals 第31集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923094500 +0000" stop="20230923100000 +0000">
+		<title lang="zh">Tangranimals 第32集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923100000 +0000" stop="20230923110500 +0000">
+		<title lang="zh">欺詐大富翁 第3集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923110500 +0000" stop="20230923120000 +0000">
+		<title lang="zh">地獄廚房 20 第10集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923120000 +0000" stop="20230923130000 +0000">
+		<title lang="zh">宇宙研究所 第2集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923130000 +0000" stop="20230923160000 +0000">
+		<title lang="zh">NFL 美式足球賽 23/24 第16集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923160000 +0000" stop="20230923161500 +0000">
+		<title lang="zh">螺絲釘 第6集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923161500 +0000" stop="20230923163000 +0000">
+		<title lang="zh">螺絲釘 第7集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923163000 +0000" stop="20230923170000 +0000">
+		<title lang="zh">小小肥貓 2 第3集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923170000 +0000" stop="20230923173000 +0000">
+		<title lang="zh">小寶 Pepee 第2集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923173000 +0000" stop="20230923180000 +0000">
+		<title lang="zh">布爾和比利 第14集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923180000 +0000" stop="20230923183000 +0000">
+		<title lang="zh">Weekly Re</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923183000 +0000" stop="20230923190000 +0000">
+		<title lang="zh">源來是咁食 第1集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923190000 +0000" stop="20230923191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923191500 +0000" stop="20230923193000 +0000">
+		<title lang="zh">荷里活娛樂快遞 第42集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923193000 +0000" stop="20230923200000 +0000">
+		<title lang="zh">英國營地自駕遊 2 第10集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923200000 +0000" stop="20230923210000 +0000">
+		<title lang="zh">建築浩劫 第2集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923210000 +0000" stop="20230923220000 +0000">
+		<title lang="zh">Guide你去旅行 4 第4集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923220000 +0000" stop="20230923230000 +0000">
+		<title lang="zh">求愛島</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923230000 +0000" stop="20230923231500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230923231500 +0000" stop="20230924001500 +0000">
+		<title lang="zh">終極格鬥王 第10集</title>
+		<date>20230923</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924001500 +0000" stop="20230924011000 +0000">
+		<title lang="zh">Guide你去旅行 4 第4集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924011000 +0000" stop="20230924020000 +0000">
+		<title lang="zh">求愛島</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924020000 +0000" stop="20230924090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924090000 +0000" stop="20230924100000 +0000">
+		<title lang="zh">自由之路 第2集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924100000 +0000" stop="20230924110000 +0000">
+		<title lang="zh">靚太攻防 第1集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924110000 +0000" stop="20230924120000 +0000">
+		<title lang="zh">建築浩劫 第2集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924120000 +0000" stop="20230924123000 +0000">
+		<title lang="zh">名畫觀世界 第23集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924123000 +0000" stop="20230924130000 +0000">
+		<title lang="zh">名畫觀世界 第24集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924130000 +0000" stop="20230924133000 +0000">
+		<title lang="zh">源來是咁食 第1集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924133000 +0000" stop="20230924153000 +0000">
+		<title lang="zh">鑽石田徑聯賽2023 第13集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924153000 +0000" stop="20230924160000 +0000">
+		<title lang="zh">鬥煮俱樂部 6 第14集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924160000 +0000" stop="20230924161500 +0000">
+		<title lang="zh">螺絲釘 第8集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924161500 +0000" stop="20230924163000 +0000">
+		<title lang="zh">螺絲釘 第9集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924163000 +0000" stop="20230924170000 +0000">
+		<title lang="zh">小小肥貓 2 第4集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924170000 +0000" stop="20230924173000 +0000">
+		<title lang="zh">小寶 Pepee 第3集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924173000 +0000" stop="20230924180000 +0000">
+		<title lang="zh">布爾和比利 第15集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924180000 +0000" stop="20230924190000 +0000">
+		<title lang="zh">置你想家居 第13集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924190000 +0000" stop="20230924191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924191500 +0000" stop="20230924193000 +0000">
+		<title lang="zh">荷里活娛樂快遞 第43集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924193000 +0000" stop="20230924200000 +0000">
+		<title lang="zh">法式季節食譜 第8集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924200000 +0000" stop="20230924220000 +0000">
+		<title lang="zh">西班牙甲組足球聯賽</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924220000 +0000" stop="20230924230000 +0000">
+		<title lang="zh">玩轉超立方</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924230000 +0000" stop="20230924231500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230924231500 +0000" stop="20230925000500 +0000">
+		<title lang="zh">超市有分掃 2 第7集</title>
+		<date>20230924</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925000500 +0000" stop="20230925010000 +0000">
+		<title lang="zh">置你想家居 第13集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925010000 +0000" stop="20230925013000 +0000">
+		<title lang="zh">家鄉菜 第1集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925013000 +0000" stop="20230925020000 +0000">
+		<title lang="zh">法式季節食譜 第8集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925020000 +0000" stop="20230925090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925090000 +0000" stop="20230925100000 +0000">
+		<title lang="zh">超市有分掃 2 第7集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925100000 +0000" stop="20230925103000 +0000">
+		<title lang="zh">家鄉菜 第1集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925103000 +0000" stop="20230925110000 +0000">
+		<title lang="zh">法式季節食譜 第8集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925110000 +0000" stop="20230925113000 +0000">
+		<title lang="zh">名畫觀世界 第23集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925113000 +0000" stop="20230925120000 +0000">
+		<title lang="zh">名畫觀世界 第24集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925120000 +0000" stop="20230925130000 +0000">
+		<title lang="zh">玩轉超立方</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925130000 +0000" stop="20230925133000 +0000">
+		<title lang="zh">NHK Newsline</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925133000 +0000" stop="20230925140000 +0000">
+		<title lang="zh">鬥煮俱樂部 6 第14集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925140000 +0000" stop="20230925150000 +0000">
+		<title lang="zh">超市有分掃 2 第7集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925150000 +0000" stop="20230925153000 +0000">
+		<title lang="zh">Al Jazeera News Live</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925153000 +0000" stop="20230925160000 +0000">
+		<title lang="zh">奶油荳荳咖啡館 2 第15集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925160000 +0000" stop="20230925163000 +0000">
+		<title lang="zh">DW News</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925163000 +0000" stop="20230925164500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第49集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925164500 +0000" stop="20230925170000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第50集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925170000 +0000" stop="20230925180000 +0000">
+		<title lang="zh">置你想家居 第13集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925180000 +0000" stop="20230925183000 +0000">
+		<title lang="zh">DW Evening News</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925183000 +0000" stop="20230925184500 +0000">
+		<title lang="zh">Tangranimals 第33集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925184500 +0000" stop="20230925190000 +0000">
+		<title lang="zh">Tangranimals 第34集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925190000 +0000" stop="20230925191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925191500 +0000" stop="20230925193000 +0000">
+		<title lang="zh">螺絲釘 第72集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925193000 +0000" stop="20230925200000 +0000">
+		<title lang="zh">Pinkfong 奇幻之星 第14集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925200000 +0000" stop="20230925203000 +0000">
+		<title lang="zh">勁騎本地煮 第1集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925203000 +0000" stop="20230925213000 +0000">
+		<title lang="zh">火拼廚神 2 第1集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925213000 +0000" stop="20230925223000 +0000">
+		<title lang="zh">世紀大謊言 第2集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925223000 +0000" stop="20230925233000 +0000">
+		<title lang="zh">我們的家 第1集</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925233000 +0000" stop="20230925234500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230925234500 +0000" stop="20230926004500 +0000">
+		<title lang="zh">傳奇笑匠 - Julia Louis</title>
+		<date>20230925</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926004500 +0000" stop="20230926011500 +0000">
+		<title lang="zh">恩雨之聲 第2集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926011500 +0000" stop="20230926014500 +0000">
+		<title lang="zh">勁騎本地煮 第1集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926014500 +0000" stop="20230926020000 +0000">
+		<title lang="zh">荷里活娛樂快遞 第43集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926020000 +0000" stop="20230926090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926090000 +0000" stop="20230926091500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第49集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926091500 +0000" stop="20230926093000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第50集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926093000 +0000" stop="20230926094500 +0000">
+		<title lang="zh">Tangranimals 第33集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926094500 +0000" stop="20230926100000 +0000">
+		<title lang="zh">Tangranimals 第34集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926100000 +0000" stop="20230926110000 +0000">
+		<title lang="zh">火拼廚神 2 第1集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926110000 +0000" stop="20230926120000 +0000">
+		<title lang="zh">我們的家 第1集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926120000 +0000" stop="20230926130000 +0000">
+		<title lang="zh">西班牙甲組足球聯賽精華 第6集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926130000 +0000" stop="20230926133000 +0000">
+		<title lang="zh">NHK Newsline</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926133000 +0000" stop="20230926140000 +0000">
+		<title lang="zh">勁騎本地煮 第1集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926140000 +0000" stop="20230926150000 +0000">
+		<title lang="zh">世紀大謊言 第2集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926150000 +0000" stop="20230926153000 +0000">
+		<title lang="zh">Al Jazeera News Live</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926153000 +0000" stop="20230926160000 +0000">
+		<title lang="zh">奶油荳荳咖啡館 2 第16集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926160000 +0000" stop="20230926163000 +0000">
+		<title lang="zh">DW News</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926163000 +0000" stop="20230926164500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第51集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926164500 +0000" stop="20230926170000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第52集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926170000 +0000" stop="20230926180000 +0000">
+		<title lang="zh">非凡工程 第8集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926180000 +0000" stop="20230926183000 +0000">
+		<title lang="zh">DW Evening News</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926183000 +0000" stop="20230926184500 +0000">
+		<title lang="zh">Tangranimals 第35集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926184500 +0000" stop="20230926190000 +0000">
+		<title lang="zh">Tangranimals 第36集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926190000 +0000" stop="20230926191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926191500 +0000" stop="20230926193000 +0000">
+		<title lang="zh">螺絲釘 第73集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926193000 +0000" stop="20230926200000 +0000">
+		<title lang="zh">Pinkfong 奇幻之星 第15集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926200000 +0000" stop="20230926203000 +0000">
+		<title lang="zh">勁騎本地煮 第2集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926203000 +0000" stop="20230926213000 +0000">
+		<title lang="zh">火拼廚神 2 第2集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926213000 +0000" stop="20230926223000 +0000">
+		<title lang="zh">謎之燈塔 第3集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926223000 +0000" stop="20230926233000 +0000">
+		<title lang="zh">黑名單 4 第16集</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926233000 +0000" stop="20230926234500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230926234500 +0000" stop="20230927004500 +0000">
+		<title lang="zh">傳奇笑匠</title>
+		<date>20230926</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927004500 +0000" stop="20230927013500 +0000">
+		<title lang="zh">密探追兇 第5集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927013500 +0000" stop="20230927020500 +0000">
+		<title lang="zh">勁騎本地煮 第2集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927020500 +0000" stop="20230927090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927090000 +0000" stop="20230927091500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第51集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927091500 +0000" stop="20230927093000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S1 第52集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927093000 +0000" stop="20230927094500 +0000">
+		<title lang="zh">Tangranimals 第35集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927094500 +0000" stop="20230927100000 +0000">
+		<title lang="zh">Tangranimals 第36集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927100000 +0000" stop="20230927110000 +0000">
+		<title lang="zh">火拼廚神 2 第2集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927110000 +0000" stop="20230927120000 +0000">
+		<title lang="zh">密探追兇 第5集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927120000 +0000" stop="20230927130000 +0000">
+		<title lang="zh">英格蘭超級聯賽精華 第6集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927130000 +0000" stop="20230927133000 +0000">
+		<title lang="zh">NHK Newsline</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927133000 +0000" stop="20230927140000 +0000">
+		<title lang="zh">勁騎本地煮 第2集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927140000 +0000" stop="20230927150000 +0000">
+		<title lang="zh">謎之燈塔 第3集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927150000 +0000" stop="20230927153000 +0000">
+		<title lang="zh">Al Jazeera News Live</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927153000 +0000" stop="20230927160000 +0000">
+		<title lang="zh">奶油荳荳咖啡館 2 第17集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927160000 +0000" stop="20230927163000 +0000">
+		<title lang="zh">DW News</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927163000 +0000" stop="20230927164500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第1集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927164500 +0000" stop="20230927170000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第2集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927170000 +0000" stop="20230927180000 +0000">
+		<title lang="zh">非凡工程 第9集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927180000 +0000" stop="20230927183000 +0000">
+		<title lang="zh">DW Evening News</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927183000 +0000" stop="20230927184500 +0000">
+		<title lang="zh">Tangranimals 第37集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927184500 +0000" stop="20230927190000 +0000">
+		<title lang="zh">Tangranimals 第38集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927190000 +0000" stop="20230927191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927191500 +0000" stop="20230927193000 +0000">
+		<title lang="zh">螺絲釘 第74集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927193000 +0000" stop="20230927200000 +0000">
+		<title lang="zh">Pinkfong 奇幻之星 第16集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927200000 +0000" stop="20230927203000 +0000">
+		<title lang="zh">Mark Moriarty：休班大廚 第4集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927203000 +0000" stop="20230927213000 +0000">
+		<title lang="zh">絕地生還</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927213000 +0000" stop="20230927223000 +0000">
+		<title lang="zh">極地生活誌 第2集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927223000 +0000" stop="20230927233000 +0000">
+		<title lang="zh">白宮危機 3 第5集</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927233000 +0000" stop="20230927234500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230927234500 +0000" stop="20230928004500 +0000">
+		<title lang="zh">傳奇笑匠</title>
+		<date>20230927</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928004500 +0000" stop="20230928014000 +0000">
+		<title lang="zh">極地生活誌 第2集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928014000 +0000" stop="20230928021000 +0000">
+		<title lang="zh">Mark Moriarty：休班大廚 第4集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928021000 +0000" stop="20230928090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928090000 +0000" stop="20230928091500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第1集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928091500 +0000" stop="20230928093000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第2集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928093000 +0000" stop="20230928094500 +0000">
+		<title lang="zh">Tangranimals 第37集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928094500 +0000" stop="20230928100000 +0000">
+		<title lang="zh">Tangranimals 第38集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928100000 +0000" stop="20230928110000 +0000">
+		<title lang="zh">絕地生還</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928110000 +0000" stop="20230928120000 +0000">
+		<title lang="zh">白宮危機 3 第5集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928120000 +0000" stop="20230928123000 +0000">
+		<title lang="zh">ATP 場內場外2023 第38集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928123000 +0000" stop="20230928130000 +0000">
+		<title lang="zh">恩雨之聲 第3集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928130000 +0000" stop="20230928133000 +0000">
+		<title lang="zh">NHK Newsline</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928133000 +0000" stop="20230928140000 +0000">
+		<title lang="zh">Mark Moriarty：休班大廚 第4集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928140000 +0000" stop="20230928150000 +0000">
+		<title lang="zh">極地生活誌 第2集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928150000 +0000" stop="20230928153000 +0000">
+		<title lang="zh">Al Jazeera News Live</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928153000 +0000" stop="20230928160000 +0000">
+		<title lang="zh">奶油荳荳咖啡館 2 第18集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928160000 +0000" stop="20230928163000 +0000">
+		<title lang="zh">DW News</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928163000 +0000" stop="20230928164500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第3集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928164500 +0000" stop="20230928170000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第4集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928170000 +0000" stop="20230928173000 +0000">
+		<title lang="zh">一起派對吧! 7 第14集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928173000 +0000" stop="20230928180000 +0000">
+		<title lang="zh">布爾和比利 第16集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928180000 +0000" stop="20230928183000 +0000">
+		<title lang="zh">DW Evening News</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928183000 +0000" stop="20230928184500 +0000">
+		<title lang="zh">Tangranimals 第39集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928184500 +0000" stop="20230928190000 +0000">
+		<title lang="zh">Tangranimals 第40集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928190000 +0000" stop="20230928191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928191500 +0000" stop="20230928193000 +0000">
+		<title lang="zh">螺絲釘 第75集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928193000 +0000" stop="20230928200000 +0000">
+		<title lang="zh">Pinkfong 奇幻之星 第17集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928200000 +0000" stop="20230928203000 +0000">
+		<title lang="zh">意媽下廚 第2集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928203000 +0000" stop="20230928213000 +0000">
+		<title lang="zh">黃金組合 2 第12集</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928213000 +0000" stop="20230928235000 +0000">
+		<title lang="zh">蜘蛛俠2</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230928235000 +0000" stop="20230929000500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230928</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929000500 +0000" stop="20230929010500 +0000">
+		<title lang="zh">趣聞逐個數 第1集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929010500 +0000" stop="20230929020000 +0000">
+		<title lang="zh">突變氣候襲地球 第7集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929020000 +0000" stop="20230929090000 +0000">
+		<title lang="zh">ViuTVsix Station Closing</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929090000 +0000" stop="20230929091500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第3集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929091500 +0000" stop="20230929093000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第4集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929093000 +0000" stop="20230929094500 +0000">
+		<title lang="zh">Tangranimals 第39集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929094500 +0000" stop="20230929100000 +0000">
+		<title lang="zh">Tangranimals 第40集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929100000 +0000" stop="20230929110000 +0000">
+		<title lang="zh">黃金組合 2 第12集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929110000 +0000" stop="20230929120000 +0000">
+		<title lang="zh">美國流行事件簿： 七十年代 第2集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929120000 +0000" stop="20230929123000 +0000">
+		<title lang="zh">英超故事 第71集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929123000 +0000" stop="20230929130000 +0000">
+		<title lang="zh">一起派對吧! 7 第15集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929130000 +0000" stop="20230929133000 +0000">
+		<title lang="zh">NHK Newsline</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929133000 +0000" stop="20230929140000 +0000">
+		<title lang="zh">意媽下廚 第2集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929140000 +0000" stop="20230929150000 +0000">
+		<title lang="zh">突變氣候襲地球 第7集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929150000 +0000" stop="20230929153000 +0000">
+		<title lang="zh">Al Jazeera News Live</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929153000 +0000" stop="20230929160000 +0000">
+		<title lang="zh">奶油荳荳咖啡館 2 第19集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929160000 +0000" stop="20230929163000 +0000">
+		<title lang="zh">DW News</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929163000 +0000" stop="20230929164500 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第5集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929164500 +0000" stop="20230929170000 +0000">
+		<title lang="zh">Messy Goes to OKIDO S2 第6集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929170000 +0000" stop="20230929173000 +0000">
+		<title lang="zh">一起派對吧! 7 第15集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929173000 +0000" stop="20230929180000 +0000">
+		<title lang="zh">布爾和比利 第17集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929180000 +0000" stop="20230929183000 +0000">
+		<title lang="zh">DW Evening News</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929183000 +0000" stop="20230929184500 +0000">
+		<title lang="zh">Tangranimals 第41集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929184500 +0000" stop="20230929190000 +0000">
+		<title lang="zh">Tangranimals 第42集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929190000 +0000" stop="20230929191500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929191500 +0000" stop="20230929193000 +0000">
+		<title lang="zh">螺絲釘 第76集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929193000 +0000" stop="20230929200000 +0000">
+		<title lang="zh">Pinkfong 奇幻之星 第18集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929200000 +0000" stop="20230929203000 +0000">
+		<title lang="zh">瑪麗快煮 2 第10集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929203000 +0000" stop="20230929213000 +0000">
+		<title lang="zh">地獄廚房 20 第11集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929213000 +0000" stop="20230929223000 +0000">
+		<title lang="zh">尋根啟事 第10集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929223000 +0000" stop="20230929233000 +0000">
+		<title lang="zh">20/20時事雜誌 第319集</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929233000 +0000" stop="20230929234500 +0000">
+		<title lang="zh">ViuTV News</title>
+		<date>20230929</date>
+		<audio>
+			<stereo>stereo</stereo>
+		</audio>
+	</programme>
+	<programme channel="10954" start="20230929234500 +0000" stop="20230930000000 +0000">
+		<title lang="zh">求愛島</title>
 		<date>20230929</date>
 		<audio>
 			<stereo>stereo</stereo>
