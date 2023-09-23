@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tv date="20230923080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg.xml">
+<tv>
 	<channel id="10843">
 		<display-name lang="TW">民視</display-name>
 	</channel>
@@ -10332,3 +10331,4 @@
 			<stereo>stereo</stereo>
 		</audio>
 	</programme>
+</tv>
