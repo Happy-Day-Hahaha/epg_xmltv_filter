@@ -59,5 +59,5 @@ with open(result_file_name,"a") as file:
         print("\t\t\t<stereo>stereo</stereo>\n")
         print("\t\t</audio>\n")
         print("\t</programme>\n")
-   file.write("</tv>")
+    file.write("</tv>")
 
