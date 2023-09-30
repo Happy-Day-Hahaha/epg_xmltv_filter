@@ -22,7 +22,6 @@ jobs:
         run: |
           git config --global user.email "fbk@hll.localhost"
           git config --global user.name "fbk"
-          git clone http://64.225.52.167:34400/xmltv/xteve.xml
           chmod +x exec_epgfilter.sh && ./exec_epgfilter.sh
           git add -A
           git commit -m "./epg_filter.xml is updated."
