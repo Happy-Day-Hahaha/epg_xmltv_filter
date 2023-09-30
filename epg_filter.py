@@ -42,8 +42,8 @@ for i in range(2):
 
 # 输出文件（channel部分）
 with open(result_file_name,"w") as file:
-    file.write(str_head)
-
+    #file.write(str_head)
+    file.write("<tv>\n")
     for row in filtered_tv.itertuples():
         print("\t<channel id=\"" + str(int(row.id)) + "\">\n")
         print("\t\t<display-name lang=\"TW\">" + row._2 +"</display-name>\n")
@@ -59,4 +59,5 @@ with open(result_file_name,"a") as file:
         print("\t\t\t<stereo>stereo</stereo>\n")
         print("\t\t</audio>\n")
         print("\t</programme>\n")
+   file.write("</tv>")
 
