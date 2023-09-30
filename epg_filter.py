@@ -13,7 +13,7 @@ result_file_name = "epg_filtered.xml" # 生成的结果文件名
 
 ### 读取原始文件
 
-#import pandas
+import pandas
 xml = pandas.read_xml(file_name)
 
 xml_programme = xml.query('id.isnull()')
