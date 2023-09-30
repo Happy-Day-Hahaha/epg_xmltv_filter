@@ -1,13 +1,13 @@
 
 ### 下载文件
 
-import wget
-url = 'https://epg.pw/xmltv/epg.xml'  
-path = './'
-wget.download(url,path)
+#import wget
+#url = 'https://epg.pw/xmltv/epg.xml'  
+#path = './'
+#wget.download(url,path)
 
 ### 设置
-file_name = "epg.xml" # 下载文件名
+file_name = "https://epg.pw/xmltv/epg.xml" # 下载文件名
 filter_tvgroup = ['民視','民視台灣台', '中視' ,'台視','華視','三立財經新聞台','ViuTV'] # 需要下载的电视台名
 result_file_name = "epg_filtered.xml" # 生成的结果文件名
 
